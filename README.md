@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Parthh8/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Parthh8/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Parthh8/LeetCode/tree/master/0202-happy-number) |
 ## Array
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Parthh8/LeetCode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Parthh8/LeetCode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Parthh8/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Parthh8/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Parthh8/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Parthh8/LeetCode/tree/master/0268-missing-number) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Parthh8/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Parthh8/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Parthh8/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
