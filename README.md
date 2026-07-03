@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Parthh8/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Parthh8/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Parthh8/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0695-max-area-of-island](https://github.com/Parthh8/LeetCode/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Parthh8/LeetCode/tree/master/0724-find-pivot-index) |
 | [1672-richest-customer-wealth](https://github.com/Parthh8/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Parthh8/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Parthh8/LeetCode/tree/master/0695-max-area-of-island) |
 | [1672-richest-customer-wealth](https://github.com/Parthh8/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## String
 |  |
@@ -118,12 +120,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Parthh8/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Parthh8/LeetCode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Parthh8/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Parthh8/LeetCode/tree/master/0695-max-area-of-island) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Parthh8/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Parthh8/LeetCode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
