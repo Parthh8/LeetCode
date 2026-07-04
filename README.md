@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Parthh8/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Parthh8/LeetCode/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/Parthh8/LeetCode/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/Parthh8/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Parthh8/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Parthh8/LeetCode/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/Parthh8/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Parthh8/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Parthh8/LeetCode/tree/master/0695-max-area-of-island) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Parthh8/LeetCode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
