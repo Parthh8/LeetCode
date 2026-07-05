@@ -9,7 +9,9 @@ class Solution {
             {
                 return true;
             }
-            set.add(num);
+            
+            // If any duplicate, then removed while adding.
+            set.add(num);  
         }
         return false;
     }
