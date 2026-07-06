@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Parthh8/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0695-max-area-of-island](https://github.com/Parthh8/LeetCode/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Parthh8/LeetCode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Parthh8/LeetCode/tree/master/0735-asteroid-collision) |
 | [1672-richest-customer-wealth](https://github.com/Parthh8/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
@@ -145,4 +146,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Parthh8/LeetCode/tree/master/0020-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/Parthh8/LeetCode/tree/master/0735-asteroid-collision) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Parthh8/LeetCode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
