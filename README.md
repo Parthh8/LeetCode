@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Parthh8/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Parthh8/LeetCode/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/Parthh8/LeetCode/tree/master/0509-fibonacci-number) |
 ## Database
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parthh8/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Parthh8/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Parthh8/LeetCode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Parthh8/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Parthh8/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Parthh8/LeetCode/tree/master/0344-reverse-string) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Parthh8/LeetCode/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/Parthh8/LeetCode/tree/master/0089-gray-code) |
 ## Stack
 |  |
