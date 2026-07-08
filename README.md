@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Parthh8/LeetCode/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/Parthh8/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Parthh8/LeetCode/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Parthh8/LeetCode/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Parthh8/LeetCode/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/Parthh8/LeetCode/tree/master/0509-fibonacci-number) |
 ## Database
 |  |
 | ------- |
@@ -175,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Parthh8/LeetCode/tree/master/0011-container-with-most-water) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Parthh8/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Parthh8/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
