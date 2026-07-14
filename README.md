@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0178-rank-scores](https://github.com/Parthh8/LeetCode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/Parthh8/LeetCode/tree/master/0180-consecutive-numbers) |
+| [0184-department-highest-salary](https://github.com/Parthh8/LeetCode/tree/master/0184-department-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Parthh8/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0585-investments-in-2016](https://github.com/Parthh8/LeetCode/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Parthh8/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
