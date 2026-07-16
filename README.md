@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Parthh8/LeetCode/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/Parthh8/LeetCode/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/Parthh8/LeetCode/tree/master/1280-students-and-examinations) |
+| [3436-find-valid-emails](https://github.com/Parthh8/LeetCode/tree/master/3436-find-valid-emails) |
 ## Prefix Sum
 |  |
 | ------- |
