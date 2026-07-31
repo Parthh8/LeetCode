@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Parthh8/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0509-fibonacci-number](https://github.com/Parthh8/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Parthh8/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0146-lru-cache](https://github.com/Parthh8/LeetCode/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
 |  |
