@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Parthh8/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Parthh8/LeetCode/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/Parthh8/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0695-max-area-of-island](https://github.com/Parthh8/LeetCode/tree/master/0695-max-area-of-island) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Parthh8/LeetCode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Parthh8/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Parthh8/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Parthh8/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Parthh8/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/Parthh8/LeetCode/tree/master/0735-asteroid-collision) |
@@ -238,9 +240,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Parthh8/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Parthh8/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Parthh8/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Parthh8/LeetCode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
