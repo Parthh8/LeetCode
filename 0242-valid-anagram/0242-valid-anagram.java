@@ -4,14 +4,14 @@ class Solution {
             return false;
         }
 
-        int[] charCounts = new int[26];
+        int[] charFreq = new int[26];
 
         for (int i = 0; i < s.length(); i++) {
-            charCounts[s.charAt(i) - 'a']++;
-            charCounts[t.charAt(i) - 'a']--;
+            charFreq[s.charAt(i) - 'a']++;
+            charFreq[t.charAt(i) - 'a']--;
         }
 
-        for (int count : charCounts) {
+        for (int count : charFreq) {
             if (count != 0) {
                 return false;
             }
