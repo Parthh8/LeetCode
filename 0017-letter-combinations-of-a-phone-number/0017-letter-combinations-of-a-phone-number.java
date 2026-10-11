@@ -1,9 +1,9 @@
 class Solution {
     public List<String> letterCombinations(String digits) {
-        List<String> result = new ArrayList<>();
+        List<String> res = new ArrayList<>();
 
         if (digits.length() == 0) {
-            return result;
+            return res;
         }
 
         String[] map = {
@@ -11,30 +11,22 @@ class Solution {
             "jkl", "mno", "pqrs", "tuv", "wxyz"
         };
 
-        backtrack(digits, 0, "", result, map);
-
-        return result;
+        backtrack(digits, 0, "", res, map);
+        return res;
     }
 
-    private void backtrack(String digits, int index, String current,
-                           List<String> result, String[] map) {
+    private void backtrack(String digits, int index, String current, List<String> res, String[] map) 
+    {
 
-        // All digits processed
         if (index == digits.length()) {
-            result.add(current);
+            res.add(current);
             return;
         }
 
         String letters = map[digits.charAt(index) - '0'];
 
         for (char ch : letters.toCharArray()) {
-            backtrack(
-                digits,
-                index + 1,
-                current + ch,
-                result,
-                map
-            );
+            backtrack(digits, index + 1, current + ch, res, map);
         }
     }
 }
