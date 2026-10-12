@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Parthh8/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Parthh8/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Parthh8/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Parthh8/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Parthh8/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Parthh8/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Parthh8/LeetCode/tree/master/0136-single-number) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Parthh8/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Parthh8/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Parthh8/LeetCode/tree/master/0695-max-area-of-island) |
 | [1672-richest-customer-wealth](https://github.com/Parthh8/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Parthh8/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Parthh8/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Parthh8/LeetCode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Parthh8/LeetCode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Parthh8/LeetCode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Parthh8/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Parthh8/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Parthh8/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Parthh8/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Parthh8/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Parthh8/LeetCode/tree/master/0200-number-of-islands) |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Parthh8/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Parthh8/LeetCode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Parthh8/LeetCode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Parthh8/LeetCode/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/Parthh8/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Stack
