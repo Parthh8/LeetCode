@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Parthh8/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Parthh8/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Parthh8/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/Parthh8/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Parthh8/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Parthh8/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Parthh8/LeetCode/tree/master/0079-word-search) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Parthh8/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Parthh8/LeetCode/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/Parthh8/LeetCode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Parthh8/LeetCode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Parthh8/LeetCode/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/Parthh8/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -287,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Parthh8/LeetCode/tree/master/0169-majority-element) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Parthh8/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
